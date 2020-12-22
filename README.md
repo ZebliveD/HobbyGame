@@ -8,3 +8,6 @@ Download here : https://www.python.org/downloads/release/python-2712/
 Une fois installé, double cliquez sur le fichier Update et séléctionner python. 
 
 Une fenêtre style cmd s'ouvre et installe le jeu dans répertoire choisi.
+
+
+/§\ cela peut prendre 5-10 min /!\
